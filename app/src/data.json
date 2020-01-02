@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/brad.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/clint.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/denzel.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/downey.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/ethan.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/intro.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/leonardo.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/robert.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/scarface.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/tom.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/ryan.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/chris.jpg",
+    "clicked": false
+  }
+]
